@@ -1,4 +1,10 @@
 # deepdream
+Just some deepdream experiments.
+
+
+
+
+Original README
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
