@@ -1,6 +1,7 @@
 # deepdream
 Just some deepdream experiments.
 
+They should mostly run after you fix the paths for model and images.
 
 
 
